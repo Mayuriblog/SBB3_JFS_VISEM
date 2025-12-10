@@ -1,5 +1,17 @@
 1. git init
 2. git add .
 3. git commit -m "git commands"
-4. git remote add origin <url>
-5. git push origin main
+4. git config --global user.email "your email"
+5. git config --global user.name "your name"
+6. git remote add origin <url>
+7. git branch
+8. git push origin main
+
+-----------------------------------
+1. git status
+2. git add .
+3. git commit -m "changes in commands"
+4. git push origin main
+
+
+
