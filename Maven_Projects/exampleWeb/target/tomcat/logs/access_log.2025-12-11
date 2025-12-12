@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [11/Dec/2025:10:50:25 +0530] "GET /exampleWeb HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [11/Dec/2025:10:50:27 +0530] "GET /exampleWeb/ HTTP/1.1" 200 57 http-bio-8080-exec-3 2083
+0:0:0:0:0:0:0:1 - - [11/Dec/2025:10:51:01 +0530] "GET /exampleWeb HTTP/1.1" 302 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [11/Dec/2025:10:51:01 +0530] "GET /exampleWeb/ HTTP/1.1" 200 57 http-bio-8080-exec-7 7
+0:0:0:0:0:0:0:1 - - [11/Dec/2025:10:51:01 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-9 0
