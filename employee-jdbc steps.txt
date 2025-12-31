@@ -1,0 +1,13 @@
+1.  create database skillbridge3_db;
+	use skillbridge3_db;
+2. CREATE TABLE employee (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(100),
+  email VARCHAR(100),
+  salary DOUBLE);
+3. mvn archetype:generate -DgroupId=com.skillbridge3
+ -DartifactId=employee-jdbc 
+ -DarchetypeArtifactId=maven-archetype-quickstart
+ -DinteractiveMode=false
+4. cd employee-jdbc
+5. 
